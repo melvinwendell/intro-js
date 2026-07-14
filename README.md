@@ -42,3 +42,8 @@ if (idade>=18){
 for()
 while()
 do...while()
+
+
+
+
+
