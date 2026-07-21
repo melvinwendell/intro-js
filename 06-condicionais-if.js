@@ -64,10 +64,10 @@ let nota = 9
 if (nota >= 9) {
     console.log("Excelente")
 } else if (nota >=7) {
-    console.log("Aprovado")
+    console.log("Aprovado(a)")
 } else if (nota >= 4) {
     console.log("Recuperação")
 } else {
-    console.log("Aprovado(a)")
+    console.log("Reprovado(a)")
 }
 

@@ -24,7 +24,7 @@ let ligado = true
 let deligado = false
 
 // 5 - undefined - não definido
-// significa que uma variavel foi criado, mas ainda não recebeu valor
+// significa que uma variavel foi criada, mas ainda não recebeu valor
 
 let nomePessoa
 console.log(nomePessoa)

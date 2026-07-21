@@ -1,4 +1,4 @@
-// operadores de cmparação são usados para comparar valores
+// operadores de comparação são usados para comparar valores
 // o resultado de uma comparação È SEMPRE um valor booleano: true ou false
 
 // 1 - igual ==

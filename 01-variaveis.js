@@ -17,7 +17,7 @@ let nomeDaPessoa = "Melvin"
 
 //redeclarando uma variavel do tipo let
 nomeDaPessoa = "Melvin"
-console.log(nome)
+console.log(nomeDaPessoa)
 
 // 3 - var 
 var pessoa = "Melvin"
